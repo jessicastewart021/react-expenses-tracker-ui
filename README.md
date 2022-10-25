@@ -29,7 +29,7 @@
 <h3 align="center">React Expenses Tracker UI</h3>
 
   <p align="center">
-    Mini assignment to create a food ordering system
+    Mini assignment to create an expenses tracker UI with react
     <br />
     <a href="https://github.com/jessicastewart021/react-expenses-tracker-ui"><strong>Explore the docs »</strong></a>
     <br />
@@ -73,8 +73,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+<img width="900" alt="Screenshot 2022-10-25 at 16 16 02" src="https://user-images.githubusercontent.com/59617056/197824816-43499c54-f35c-416f-b82d-b0068e862c76.png">
 
-<img width="1710" alt="Screenshot 2022-10-25 at 13 40 10" src="https://user-images.githubusercontent.com/59617056/197786913-86397a17-f5f2-4241-8c0e-5d6269234de1.png">
 
 Mini assignment to create a expenses tracker UI as part of a udemy course.
 
@@ -127,20 +127,14 @@ You may also see any lint errors in the console.
 ## Usage
 
 ## Screenshots
-* Add item to cart
-<img width="937" alt="Screenshot 2022-10-25 at 13 40 30" src="https://user-images.githubusercontent.com/59617056/197786944-345736b9-6f0d-4c54-8c4f-6603228cd29c.png">
+* Filter by year
+<img width="332" alt="Screenshot 2022-10-25 at 16 16 15" src="https://user-images.githubusercontent.com/59617056/197824928-1777aed0-6917-47fe-9d78-8afa43bebc45.png">
 
-* Add multiple items to cart
-<img width="937" alt="Screenshot 2022-10-25 at 13 40 37" src="https://user-images.githubusercontent.com/59617056/197787034-42dd151f-3e01-4947-a527-5df7be080a1a.png">
-
-* View cart items and remove undesired items
-<img width="664" alt="Screenshot 2022-10-25 at 15 12 41" src="https://user-images.githubusercontent.com/59617056/197797265-dc022a89-0c9f-48bd-8c2b-0dee929d31b4.png">
-
+* Add expense
+<img width="885" alt="Screenshot 2022-10-25 at 16 16 30" src="https://user-images.githubusercontent.com/59617056/197825041-b70a4e33-6dc0-4459-b0ce-d8f71da8cb8e.png">
 
 ## Demo
-https://user-images.githubusercontent.com/59617056/197797923-e0b4aad0-713b-4fa3-b701-a9da8e25b2d6.mov
-
-
+https://user-images.githubusercontent.com/59617056/197825144-3ef79471-4522-496c-a665-9cd5415ae5ea.mov
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
